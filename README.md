@@ -194,4 +194,9 @@
 
 * **DAE integrates payment gateways in two ways:**
     * **Direct to Acquirer:** Connects directly to local/regional banks, CyberSource, Mastercard, Visa, etc. 
-    * **Direct to e-wallet:** Connects directly to e-wallets like WeChat Pay, Alipay, GrabPay, GCash, PayMaya, ABAPay, Momo. 
+    * **Direct to e-wallet:** Connects directly to e-wallets like WeChat Pay, Alipay, GrabPay, GCash, PayMaya, ABAPay, Momo.
+
+## 20. What is DAE? 
+
+* **DAE stands for Digital Assistance for Energy**
+
